@@ -20,6 +20,32 @@
 ## 👨‍💻 About Me
 
 <table>
+<tr>
+<td>
+
+```javascript
+class LikhonSarker {
+  constructor() {
+    this.pronouns = "He/Him";
+    this.role = ["Full Stack Developer", "Web Engineer", "MERN Specialist"];
+    this.language_spoken = ["English", "Bengali"];
+    this.currently_working_on = "Scalable Web Applications";
+    this.currently_learning = ["AWS", "Docker", "Microservices"];
+  }
+
+  sayHi() {
+    console.log(
+      "Thanks for visiting my GitHub! Let's connect and build something amazing together!"
+    );
+  }
+}
+
+const me = new LikhonSarker();
+me.sayHi();
+```
+
+</td>
+<td>
 
 - 🧠 Specialized in **TypeScript, JavaScript, React, and Next.js**
 - 💻 Experienced in developing **modern web applications**
