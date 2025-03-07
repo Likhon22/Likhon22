@@ -23,27 +23,6 @@
 <tr>
 <td>
 
-```javascript
-class LikhonSarker {
-  constructor() {
-    this.pronouns = "He/Him";
-    this.role = ["Full Stack Developer", "Web Engineer", "MERN Specialist"];
-    this.language_spoken = ["English", "Bengali"];
-    this.currently_working_on = "Scalable Web Applications";
-    this.currently_learning = ["AWS", "Docker", "Microservices"];
-  }
-
-  sayHi() {
-    console.log(
-      "Thanks for visiting my GitHub! Let's connect and build something amazing together!"
-    );
-  }
-}
-
-const me = new LikhonSarker();
-me.sayHi();
-```
-
 </td>
 <td>
 
@@ -76,7 +55,8 @@ me.sayHi();
 
 ## ⚡ Contribution Streak & Stats
 
-<div align="center">
+  <div align="center">
+  <!-- More reliable alternative for streak stats -->
   <a href="https://github.com/Likhon22">
     <img src="https://streak-stats.demolab.com?user=Likhon22&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=2986CC&fire=2986CC&currStreakNum=FFFFFF&ring=2986CC" alt="GitHub Streak" />
   </a>
@@ -152,3 +132,7 @@ me.sayHi();
 </div>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
+
+```
+
+```
