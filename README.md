@@ -20,11 +20,6 @@
 ## 👨‍💻 About Me
 
 <table>
-<tr>
-<td>
-
-</td>
-<td>
 
 - 🧠 Specialized in **TypeScript, JavaScript, React, and Next.js**
 - 💻 Experienced in developing **modern web applications**
