@@ -50,16 +50,9 @@
 
 ## ⚡ Contribution Streak & Stats
 
-  <div align="center">
-  <!-- More reliable alternative for streak stats -->
-  <a href="https://github.com/Likhon22">
-    <img src="https://streak-stats.demolab.com?user=Likhon22&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=2986CC&fire=2986CC&currStreakNum=FFFFFF&ring=2986CC" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Likhon22&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Likhon22&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Likhon22&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Likhon22&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🛠️ My Tech Arsenal
 
