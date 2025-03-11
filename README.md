@@ -104,6 +104,32 @@
 </p>
 </details>
 
+## 🌐 My Portfolio Website
+
+<div align="center">
+  <a href="https://www.likhonsarker.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2986cc?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  
+  <div style="margin: 20px 0;">
+    <table>
+      <tr>
+        <td>
+          <a href="https://www.likhonsarker.xyz" target="_blank">
+            <img width="500" src="https://img.shields.io/badge/%F0%9F%8C%90_www.likhonsarker.xyz-2986cc?style=for-the-badge&labelColor=black&logo=googlechrome&logoColor=white" alt="Portfolio URL"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <p>Explore my latest projects, technical skills, and professional journey.</p>
+          <p>✨ Modern UI/UX • Responsive Design • Interactive Elements ✨</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
 [![wakatime](https://wakatime.com/badge/user/Likhon22.svg)](https://wakatime.com/@Likhon22)
 
 ---
@@ -120,7 +146,3 @@
 </div>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
-
-```
-
-```
