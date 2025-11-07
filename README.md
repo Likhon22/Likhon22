@@ -2,9 +2,9 @@
   
 # Likhon Sarker
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Likhon%20Sarker&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Web%20Engineer%20|%20MERN%20Specialist&descAlignY=60&fontColor=ffffff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Likhon%20Sarker&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Microservices%20Architect&descAlignY=60&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2986cc&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+Expert;React+%26+Next.js+Developer;MongoDB+%26+PostgreSQL;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2986cc&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Go+%26+TypeScript+Engineer;Microservices+Architect;gRPC+%26+REST+API+Expert;Cloud+%26+DevOps+Enthusiast;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzJlM2Y2MDVkYTBhZWJmYzU2ZjQ0NTRjZDM3N2Y0ZjBiMzc0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
 
@@ -20,14 +20,14 @@
 
 <table>
 
-- 🧠 Specialized in **TypeScript, JavaScript, React, and Next.js**
-- 💻 Experienced in developing **modern web applications**
-- 🌐 Proficient with **MongoDB, PostgreSQL, and Prisma ORM**
-- 🚀 Passionate about building **scalable backend systems**
-- 🌱 Always learning and exploring **new web technologies**
-- 💬 Ask me about **MERN stack, TypeScript, or Database Design**
-- 🔭 Working on building **efficient and robust web applications**
-- 📫 Reach me at: [msarker212066@bscse.uiu.ac.bd](mailto:msarker212066@bscse.uiu.ac.bd)
+- 🧠 Specialized in **Go, TypeScript, React, and Next.js**
+- 🎯 Building **scalable microservices with gRPC** and **RESTful APIs**
+- 🌐 Expert in **MongoDB, PostgreSQL, Redis, and DynamoDB**
+- 🚀 Passionate about **distributed systems, API gateways, and cloud architecture**
+- 🔧 Experienced with **Docker, Kong Gateway, Prometheus, Grafana, and AWS**
+- 🌱 Always learning and exploring **modern backend technologies**
+- 💬 Ask me about **Microservices, gRPC, Go, TypeScript, or System Design**
+- Reach me at: [msarker212066@bscse.uiu.ac.bd](mailto:msarker212066@bscse.uiu.ac.bd)
 
 </td>
 </tr>
@@ -55,51 +55,62 @@
 
 ## 🛠️ My Tech Arsenal
 
-### 🌐 Frontend Development
+### 🚀 Backend & Microservices
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protobuf-0078D4?style=for-the-badge&logo=protocol-buffers&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🗄️ Databases & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### 🌐 Frontend Development
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-### ⚙️ Backend Development
+### ☁️ Cloud & DevOps
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <details>
-<summary><b>🔧 DevOps & Tools</b></summary>
+<summary><b>🔧 Additional Tools & Technologies</b></summary>
 <br>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-</p>
-</details>
-
-<details>
-<summary><b>📱 Other Skills & Interests</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Buf-3178C6?style=for-the-badge&logo=buffer&logoColor=white" alt="Buf"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Air-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Air Hot Reload"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Zerolog-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Zerolog"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Promtail-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Promtail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io"/></a>
   <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io"/></a>
 </p>
 </details>
 
